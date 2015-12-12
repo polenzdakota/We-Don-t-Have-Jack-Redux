@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 77be55c283f300d469b6eea20604d67d
+timeCreated: 1449913031
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: itemsAndTriggers_0
+    21300002: itemsAndTriggers_1
+    21300004: itemsAndTriggers_2
+    21300006: itemsAndTriggers_3
+    21300008: itemsAndTriggers_4
+    21300010: itemsAndTriggers_5
+    21300012: itemsAndTriggers_6
+    21300014: itemsAndTriggers_7
+    21300016: itemsAndTriggers_8
+    21300018: itemsAndTriggers_9
+    21300020: itemsAndTriggers_10
+    21300022: itemsAndTriggers_11
+    21300024: itemsAndTriggers_12
+    21300026: itemsAndTriggers_13
+    21300028: itemsAndTriggers_14
+    21300030: itemsAndTriggers_15
+    21300032: itemsAndTriggers_16
+    21300034: itemsAndTriggers_17
+    21300036: itemsAndTriggers_18
+    21300038: itemsAndTriggers_19
+    21300040: itemsAndTriggers_20
+    21300042: itemsAndTriggers_21
+    21300044: itemsAndTriggers_22
+    21300046: itemsAndTriggers_23
+    21300048: itemsAndTriggers_24
+    21300050: itemsAndTriggers_25
+    21300052: itemsAndTriggers_26
+    21300054: itemsAndTriggers_27
+    21300056: itemsAndTriggers_28
+    21300058: itemsAndTriggers_29
+    21300060: itemsAndTriggers_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: itemsAndTriggers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 575
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 575
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 575
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 576
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 576
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 575
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 281
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 14, z: 0, w: 0}
+    - name: itemsAndTriggers_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 383
+        width: 242
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 430
+        width: 88
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 383
+        width: 90
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 62, w: 0}
+    - name: itemsAndTriggers_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 265
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 265
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 266
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 322
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 129
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 64
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 319
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: itemsAndTriggers_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
