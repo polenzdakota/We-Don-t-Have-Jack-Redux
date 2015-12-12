@@ -1,0 +1,6 @@
+Youdontknowjackredux/Library/*
+*.sln
+*.csproj
+*.userprefs
+Youdontknowjackredux/Youdontknowjackredux_Data/*
+Youdontknowjackredux/Temp/*
