@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: a67e72beaac8a0b49bc61ea993d85df7
+timeCreated: 1449912284
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotBlue_0
+    21300002: RobotBlue_1
+    21300004: RobotBlue_2
+    21300006: RobotBlue_3
+    21300008: RobotBlue_4
+    21300010: RobotBlue_5
+    21300012: RobotBlue_6
+    21300014: RobotBlue_7
+    21300016: RobotBlue_8
+    21300018: RobotBlue_9
+    21300020: RobotBlue_10
+    21300022: RobotBlue_11
+    21300024: RobotBlue_12
+    21300026: RobotBlue_13
+    21300028: RobotBlue_14
+    21300030: RobotBlue_15
+    21300032: RobotBlue_16
+    21300034: RobotBlue_17
+    21300036: RobotBlue_18
+    21300038: RobotBlue_19
+    21300040: RobotBlue_20
+    21300042: RobotBlue_21
+    21300044: RobotBlue_22
+    21300046: RobotBlue_23
+    21300048: RobotBlue_24
+    21300050: RobotBlue_25
+    21300052: RobotBlue_26
+    21300054: RobotBlue_27
+    21300056: RobotBlue_28
+    21300058: RobotBlue_29
+    21300060: RobotBlue_30
+    21300062: RobotBlue_31
+    21300064: RobotBlue_32
+    21300066: RobotBlue_33
+    21300068: RobotBlue_34
+    21300070: RobotBlue_35
+    21300072: RobotBlue_36
+    21300074: RobotBlue_37
+    21300076: RobotBlue_38
+    21300078: RobotBlue_39
+    21300080: RobotBlue_40
+    21300082: RobotBlue_41
+    21300084: RobotBlue_42
+    21300086: RobotBlue_43
+    21300088: RobotBlue_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotBlue_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 641
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 642
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 642
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 641
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 577
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 578
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 578
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 577
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 520
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 524
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 520
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 455
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 460
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 456
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 460
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 380
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 381
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 382
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 380
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 257
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 280
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 180
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 198
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 198
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 199
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 130
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 130
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 65
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotBlue_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

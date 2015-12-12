@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: c4a49f0a11884044e90d20c9211e51de
+timeCreated: 1449912305
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotGreen_0
+    21300002: RobotGreen_1
+    21300004: RobotGreen_2
+    21300006: RobotGreen_3
+    21300008: RobotGreen_4
+    21300010: RobotGreen_5
+    21300012: RobotGreen_6
+    21300014: RobotGreen_7
+    21300016: RobotGreen_8
+    21300018: RobotGreen_9
+    21300020: RobotGreen_10
+    21300022: RobotGreen_11
+    21300024: RobotGreen_12
+    21300026: RobotGreen_13
+    21300028: RobotGreen_14
+    21300030: RobotGreen_15
+    21300032: RobotGreen_16
+    21300034: RobotGreen_17
+    21300036: RobotGreen_18
+    21300038: RobotGreen_19
+    21300040: RobotGreen_20
+    21300042: RobotGreen_21
+    21300044: RobotGreen_22
+    21300046: RobotGreen_23
+    21300048: RobotGreen_24
+    21300050: RobotGreen_25
+    21300052: RobotGreen_26
+    21300054: RobotGreen_27
+    21300056: RobotGreen_28
+    21300058: RobotGreen_29
+    21300060: RobotGreen_30
+    21300062: RobotGreen_31
+    21300064: RobotGreen_32
+    21300066: RobotGreen_33
+    21300068: RobotGreen_34
+    21300070: RobotGreen_35
+    21300072: RobotGreen_36
+    21300074: RobotGreen_37
+    21300076: RobotGreen_38
+    21300078: RobotGreen_39
+    21300080: RobotGreen_40
+    21300082: RobotGreen_41
+    21300084: RobotGreen_42
+    21300086: RobotGreen_43
+    21300088: RobotGreen_44
+    21300090: RobotGreen_45
+    21300092: RobotGreen_46
+    21300094: RobotGreen_47
+    21300096: RobotGreen_48
+    21300098: RobotGreen_49
+    21300100: RobotGreen_50
+    21300102: RobotGreen_51
+    21300104: RobotGreen_52
+    21300106: RobotGreen_53
+    21300108: RobotGreen_54
+    21300110: RobotGreen_55
+    21300112: RobotGreen_56
+    21300114: RobotGreen_57
+    21300116: RobotGreen_58
+    21300118: RobotGreen_59
+    21300120: RobotGreen_60
+    21300122: RobotGreen_61
+    21300124: RobotGreen_62
+    21300126: RobotGreen_63
+    21300128: RobotGreen_64
+    21300130: RobotGreen_65
+    21300132: RobotGreen_66
+    21300134: RobotGreen_67
+    21300136: RobotGreen_68
+    21300138: RobotGreen_69
+    21300140: RobotGreen_70
+    21300142: RobotGreen_71
+    21300144: RobotGreen_72
+    21300146: RobotGreen_73
+    21300148: RobotGreen_74
+    21300150: RobotGreen_75
+    21300152: RobotGreen_76
+    21300154: RobotGreen_77
+    21300156: RobotGreen_78
+    21300158: RobotGreen_79
+    21300160: RobotGreen_80
+    21300162: RobotGreen_81
+    21300164: RobotGreen_82
+    21300166: RobotGreen_83
+    21300168: RobotGreen_84
+    21300170: RobotGreen_85
+    21300172: RobotGreen_86
+    21300174: RobotGreen_87
+    21300176: RobotGreen_88
+    21300178: RobotGreen_89
+    21300180: RobotGreen_90
+    21300182: RobotGreen_91
+    21300184: RobotGreen_92
+    21300186: RobotGreen_93
+    21300188: RobotGreen_94
+    21300190: RobotGreen_95
+    21300192: RobotGreen_96
+    21300194: RobotGreen_97
+    21300196: RobotGreen_98
+    21300198: RobotGreen_99
+    21300200: RobotGreen_100
+    21300202: RobotGreen_101
+    21300204: RobotGreen_102
+    21300206: RobotGreen_103
+    21300208: RobotGreen_104
+    21300210: RobotGreen_105
+    21300212: RobotGreen_106
+    21300214: RobotGreen_107
+    21300216: RobotGreen_108
+    21300218: RobotGreen_109
+    21300220: RobotGreen_110
+    21300222: RobotGreen_111
+    21300224: RobotGreen_112
+    21300226: RobotGreen_113
+    21300228: RobotGreen_114
+    21300230: RobotGreen_115
+    21300232: RobotGreen_116
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotGreen_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1154
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1152
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1154
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1152
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1088
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1090
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1088
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1090
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1024
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1056
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1026
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1024
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1047
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1042
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1042
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 960
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 962
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 992
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 960
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 956
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 978
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 978
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 983
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 898
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 898
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 898
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 834
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 834
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 834
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 834
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 770
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 770
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 770
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 770
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 706
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 717
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 706
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 717
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 706
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 717
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 706
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 717
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 653
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 653
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 653
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 653
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 578
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 576
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 578
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 600
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_59
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 536
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 514
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 450
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_63
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 461
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 450
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_65
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 461
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 450
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 461
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 450
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_69
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 461
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 397
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 386
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_72
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 397
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 386
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 397
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 386
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 397
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_77
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 386
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 339
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 339
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_83
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 339
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_84
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 323
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_85
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 275
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_87
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 275
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_88
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 256
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_89
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 275
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 258
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_91
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 275
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_92
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 258
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_94
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 211
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_96
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 211
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 193
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_98
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 211
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_99
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_100
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 211
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_101
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_102
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 130
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_103
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_104
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 129
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_105
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_106
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_107
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 147
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_108
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 129
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_109
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_110
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_111
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_112
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_114
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 26
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGreen_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 126
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
