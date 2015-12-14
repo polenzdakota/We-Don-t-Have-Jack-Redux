@@ -1,15 +1,20 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class IAction : MonoBehaviour {
+/// <summary>
+/// Interface for action commands.
+/// </summary>
+public interface IAction {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+	/// <summary>
+	/// Invokes the action.
+	/// </summary>
+	/// <returns><c>true</c>, if action was invoked, <c>false</c> otherwise.</returns>
+	bool InvokeAction();
+
+	/// <summary>
+	/// Undos the action.
+	/// </summary>
+	/// <returns><c>true</c>, if action was undone, <c>false</c> otherwise.</returns>
+	bool UndoAction();
 }
