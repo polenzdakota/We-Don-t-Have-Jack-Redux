@@ -1,6 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+/// <summary>
+/// Script for the main robot of the game.
+/// </summary>
 public class MainRobot : MonoBehaviour, IRobot {
 	public static Vector3 initialPos;
 	public float moveDistance;
@@ -27,6 +31,9 @@ public class MainRobot : MonoBehaviour, IRobot {
 	
 	}
 
+	/// <summary>
+	/// Moves the towards target. Called every frame.
+	/// </summary>
 	public void MoveTowardsTarget() {
 		Vector3 currentPosition = transform.position;
 
@@ -46,6 +53,9 @@ public class MainRobot : MonoBehaviour, IRobot {
 		}
 	}
 
+	/// <summary>
+	/// Sets the target position to the position to the move distance in front of the robot.
+	/// </summary>
 	public void MoveForward() {
 		currentPos = transform.position;
 		float nextX = currentPos.x + (dx * moveDistance);
@@ -55,39 +65,68 @@ public class MainRobot : MonoBehaviour, IRobot {
 		targetPos = next;
 	}
 
+	/// <summary>
+	/// Rotates the robot right.
+	/// </summary>
 	public void RotateRight() {
 		int tmp = dx;
 		dx = dy;
 		dy = -tmp;
 	}
 
+	/// <summary>
+	/// Rotates the robot left.
+	/// </summary>
 	public void RotateLeft() {
 		int tmp = dy;
 		dy = dx;
 		dx = -tmp;
 	}
 
+	/// <summary>
+	/// Updates the sprite.
+	/// </summary>
 	public void UpdateSprite() {
 		//TODO
 	}
 
+	/// <summary>
+	/// Sets the initial position.
+	/// </summary>
 	public void SetInitialPosition() {
 		currentPos = initialPos;
 	}
 
+	/// <summary>
+	/// Sets the rotation.
+	/// </summary>
+	/// <param name="rotation">Rotation.</param>
 	public void SetRotation(int[] rotation) {
 		dx = rotation [0];
 		dy = rotation [1];
 	}
 
+	/// <summary>
+	/// Gets the position.
+	/// </summary>
+	/// <returns>The position.</returns>
 	public Vector3 GetPosition() {
 		return currentPos;
 	}
 
+	/// <summary>
+	/// Gets the rotation.
+	/// </summary>
+	/// <returns>The rotation.</returns>
 	public int[] GetRotation() {
 		return new int[]{dx, dy};
 	}
 
+	/// <summary>
+	/// Gets the collision.
+	/// </summary>
+	/// <returns>true</returns>
+	/// <c>false</c>
 	public bool GetCollision() {
 		return collision;
 	}
