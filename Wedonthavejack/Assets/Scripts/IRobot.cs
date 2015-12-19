@@ -26,7 +26,7 @@ public interface IRobot {
 	/// Moves the robot forward.
 	/// </summary>
 	/// <returns><c>true</c>, if forward was moved, <c>false</c> otherwise.</returns>
-	bool MoveForward();
+	void MoveForward();
 
 	/// <summary>
 	/// Rotates the robot right.
