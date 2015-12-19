@@ -1,15 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ITrigger : MonoBehaviour {
+/// <summary>
+/// Interface for Triggers
+/// </summary>
+public interface ITrigger{
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+	/// <summary>
+	/// Envokes the trigger.
+	/// </summary>
+	void EnvokeTrigger();
+
+	/// <summary>
+	/// Devokes the trigger.
+	/// </summary>
+	void DevokeTrigger();
+
+	/// <summary>
+	/// Sets the action.
+	/// </summary>
+	void SetAction();
 }
